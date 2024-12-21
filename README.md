@@ -84,20 +84,12 @@ Key Observations:
 
  - Manual mapping refined results further, especially in industries like "Poultry."
 
-# 5. Outcomes & Next Steps:
+# 5. Outcomes
 
 Results:
 
  - Achieved an accuracy of ~53% on test data.
 
  - Identified key areas for improvement, such as better feature selection and cluster refinement.
-
-Next Steps:
-
- - Use more advanced clustering algorithms (e.g., DBSCAN).
-
- - Enrich dataset with external sources like market trends or financial data.
-
-
 
 
